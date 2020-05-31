@@ -27,5 +27,5 @@ echo -e "
     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝" | lolcat
 echo ""
 echo ""                                                
-echo -e  "     \e[1m\e[32m××××××××××>[\e[31m.youtube.com/techcochi\e[1m\e[32m]<××××××××××"  
+echo -e  "     \e[1m\e[32m××××××××××>[\e[31myoutube.com/techcochi\e[1m\e[32m]<××××××××××"  
 echo ""
