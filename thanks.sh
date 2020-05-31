@@ -24,5 +24,4 @@ echo " "
 echo " "
 sleep 16.0
 clear 
-exit 0
                                         
