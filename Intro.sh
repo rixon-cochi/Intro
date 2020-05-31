@@ -29,3 +29,55 @@ echo ""
 echo ""                                                
 echo -e  "     \e[1m\e[32m××××××××××>[\e[31myoutube.com/techcochi\e[1m\e[32m]<××××××××××"  
 echo ""
+echo ""
+sleep 8.0
+pkg install mpv -y
+termux-setup-storage
+cd  /data/data/com.termux/files/usr/etc
+
+rm bash.bashrc
+
+ls
+
+cd $HOME
+
+ls 
+
+cd Intro
+
+ls
+
+cp bash.bashrc /data/data/com.termux/files/usr/etc
+
+ls
+
+cd $HOME
+
+ls
+
+cd Intro
+
+ls
+
+cp Introv.mp3 /sdcard
+
+clear
+bash packages.sh
+clear
+sleep 4.0
+clear
+sleep 5.0
+bash thanks.sh 
+sleep 2.0 
+clear
+echo " "
+echo " "
+echo " "
+echo " LOADING " | lolcat
+echo " "
+echo " "
+clear
+echo "             " OPEN A NEW SESSION |lolcat 
+echo " "
+echo " "
+sleep 3.0
