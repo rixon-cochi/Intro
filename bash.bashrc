@@ -2,7 +2,7 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;98m[TECH]\e[0;3
 clear
 echo ""
 echo ""
-echo -e " LOADING | lolcat
+echo -e " LOADING " | lolcat
 echo ""
 echo ""
 sleep 1.0
