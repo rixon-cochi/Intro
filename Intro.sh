@@ -37,6 +37,8 @@ cd  /data/data/com.termux/files/usr/etc
 
 rm bash.bashrc
 
+rm motd
+
 ls
 
 cd $HOME
