@@ -67,6 +67,7 @@ clear
 bash packages.sh
 clear
 sleep 4.0
+apt-get install cmatrix
 clear
 sleep 5.0
 bash thanks.sh 
