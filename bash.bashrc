@@ -1,3 +1,5 @@
+cmatrix
+sleep 1
 mpv /sdcard/Introv.mp3
 clear
 sleep 1
